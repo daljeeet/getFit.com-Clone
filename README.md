@@ -7,5 +7,5 @@
 ![clt_dsk](https://user-images.githubusercontent.com/80110392/213513232-f6734609-d007-4570-9dac-53f2d809a50e.gif)
 
 
-Folder Strecture of the website : 
+Folder Strecture : 
 ![Employee Dashboard](https://user-images.githubusercontent.com/80110392/207410233-702f9607-fb15-4c29-87b1-994ca733106e.svg)
